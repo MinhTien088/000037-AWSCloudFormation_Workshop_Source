@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tạo Lambda Function on AWS CLOUDFORMATION</title>
+    <link>http://minhtien088.github.io/000037-AWSCloudFormation/vi/4-advancedcloudformation/4.1-customresources/4.1.1-createlambdafunction/</link>
+    <description>Recent content in Tạo Lambda Function on AWS CLOUDFORMATION</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <atom:link href="http://minhtien088.github.io/000037-AWSCloudFormation/vi/4-advancedcloudformation/4.1-customresources/4.1.1-createlambdafunction/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
