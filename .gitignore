@@ -1,11 +1,11 @@
 util000.py
 .gitignore1
-archetypes/
-content/
-layouts/
+# archetypes/
+# content/
+# layouts/
 public/
-static/
-themes/
-.gitmodules
-.hugo_build.lock
-config.toml
+# static/
+# themes/
+# .gitmodules
+# .hugo_build.lock
+# config.toml
